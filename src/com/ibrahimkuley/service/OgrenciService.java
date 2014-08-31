@@ -31,6 +31,7 @@ public class OgrenciService {
     @Produces("application/json;charset=utf-8")
     public void addOgrenci() {
 
+
     }
 
     @PUT
